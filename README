@@ -1,0 +1,1 @@
+I have used Iterator Pattern for Binary Search Tree where I created generic Iterator class for searching a particular pattern from the tree. I have used Null pattern for the leaf node to avoid null checks.
